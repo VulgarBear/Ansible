@@ -1,2 +1,2 @@
 # Ansible
-Personal Ansible playbooks for configuring my prod/dev environments.
+Personal Ansible playbooks/roles for configuring my prod/dev environments.
